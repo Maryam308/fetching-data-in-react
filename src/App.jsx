@@ -1,7 +1,6 @@
 import * as weatherService from "./services/weatherService";
 import { useState, useEffect } from "react";
 import WeatherSearch from "./components/WeatherSearch/WeatherSearch";
-
 import WeatherDetails from "./components/WeatherDetails/WeatherDetails";
 
 const App = () => {
